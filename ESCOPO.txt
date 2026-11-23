@@ -1,0 +1,9 @@
+Femboy Futa House v1.135 — kit de análise estática
+Plataforma Windows x86-64. Unity 6000.2.6f2 (4a4dcaec6541). Mono, Naninovel e Addressables 2.7.2.
+Arquivos do jogo no kit: 204. Bytes de entrada: 98506725.
+Arquivos nos quatro ZIPs complementares: 431. Bytes de entrada: 3024346958.
+Bundles no catálogo local: 431 (428 caminhos UTF-8/ASCII e 3 UTF-16LE). Em disco: 431. Referências sem arquivo: 0.
+A verificação do catálogo procura caminhos RuntimePath/StandaloneWindows64 no binário. Ela não cobre toda a árvore de dependências nem substitui análise do formato.
+Extraia todos os ZIPs na mesma pasta para preservar caminhos. A descompilação C# pode começar só com este kit.
+O kit deixa de fora cenas/recursos pesados do player (.resS e arquivos relacionados), mídia externa e componentes Steam de terceiros. É um conjunto de análise, sem instalação jogável completa.
+Valide o kit com sha256sum -c KIT.sha256. Com o complemento extraído, valide com sha256sum -c BUNDLES.sha256.
